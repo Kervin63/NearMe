@@ -137,12 +137,13 @@ samuthiram.html
 </html>
 ```
 ## OUTPUT
-![alt text](<Screenshot 2025-09-26 211329.png>)
+
 ![alt text](<Screenshot 2025-09-26 211329-1.png>)
 ![alt text](<Screenshot 2025-09-26 211353.png>)
 ![alt text](<Screenshot 2025-09-26 211410.png>)
 ![alt text](<Screenshot 2025-09-26 211425.png>)
 ![alt text](<Screenshot 2025-09-26 211513.png>)
+![alt text](<Screenshot 2025-09-26 211341.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
