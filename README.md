@@ -143,7 +143,7 @@ samuthiram.html
 ![alt text](<Screenshot 2025-09-26 211410.png>)
 ![alt text](<Screenshot 2025-09-26 211425.png>)
 ![alt text](<Screenshot 2025-09-26 211513.png>)
-![alt text](<Screenshot 2025-09-26 211341.png>)
+![alt text](ans.png)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
